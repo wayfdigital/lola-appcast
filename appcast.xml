@@ -3,13 +3,13 @@
     <channel>
         <title>lola</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Mon, 18 May 2026 10:09:57 +0000</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.4.0</title>
+            <pubDate>Mon, 18 May 2026 12:04:26 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.3.0/Lola-0.3.0.zip" length="9047355" type="application/octet-stream" sparkle:edSignature="kflmGs0V1HfXoYvW7baupDNqxb6dvSG5lC2Ynul3XpPZTlPm7gY01k4h33Fl9NvmynHX4yVkMMhOnM1uCUMVAw=="/>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.0/Lola-0.4.0.zip" length="9061768" type="application/octet-stream" sparkle:edSignature="qWSkcRxgVnYD+lKq0dWfanNxzPrIkilLhopqr9FR5Nj7y+cr2GsTP8x6GRGv9j2yTXjMxaMaffXOPJjwdgxnBQ=="/>
         </item>
     </channel>
 </rss>
