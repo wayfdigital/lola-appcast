@@ -3,15 +3,15 @@
     <channel>
         <title>lola</title>
         <item>
-            <title>0.4.3</title>
-            <pubDate>Tue, 19 May 2026 10:32:30 +0000</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <title>0.4.4</title>
+            <pubDate>Tue, 19 May 2026 14:12:39 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.3/Lola-0.4.3.zip" length="9073927" type="application/octet-stream" sparkle:edSignature="WD4dmWrtSVKUlo0QnhCJVrwiueI95UYy4IW1k8an/e9rxwMlYKk2nZLQaX/VsWjytODXBoSkYgmH5PQqVv0kDQ=="/>
-            <description><![CDATA[<ul><li><strong>Feature:</strong> When using the "Project + minutes" menu bar display, the timer now shows a compact format like <em>47m</em> for under an hour, then switches to <em>1h32m</em> once you pass the hour mark.</li><li><strong>Feature:</strong> The app update popup now shows human-readable release notes so you can see what changed before updating.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.3/release-notes-0.4.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.4/Lola-0.4.4.zip" length="9076653" type="application/octet-stream" sparkle:edSignature="s7EF+Pb0juXKlPqXMMJHCdfwOjnvJSXZmGFNJ79IOgMONksRMrv5+a2CaB/voPSpj18gjKobf4/iOLadoT1fBg=="/>
+            <description><![CDATA[<ul><li><strong>Fix:</strong> Lola now shows a clear error message if the sign-in page can't be opened, instead of crashing unexpectedly.</li><li><strong>Improvement:</strong> Crash reports now include much more context, making it easier to diagnose and fix issues you encounter.</li></ul>]]></description>
+            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.4/release-notes-0.4.4.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
