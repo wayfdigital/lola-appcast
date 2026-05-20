@@ -3,15 +3,15 @@
     <channel>
         <title>lola</title>
         <item>
-            <title>0.4.4</title>
-            <pubDate>Tue, 19 May 2026 14:12:39 +0000</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <title>0.4.5</title>
+            <pubDate>Wed, 20 May 2026 10:11:03 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.4/Lola-0.4.4.zip" length="9076653" type="application/octet-stream" sparkle:edSignature="s7EF+Pb0juXKlPqXMMJHCdfwOjnvJSXZmGFNJ79IOgMONksRMrv5+a2CaB/voPSpj18gjKobf4/iOLadoT1fBg=="/>
-            <description><![CDATA[<ul><li><strong>Fix:</strong> Lola now shows a clear error message if the sign-in page can't be opened, instead of crashing unexpectedly.</li><li><strong>Improvement:</strong> Crash reports now include much more context, making it easier to diagnose and fix issues you encounter.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.4/release-notes-0.4.4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.5/Lola-0.4.5.zip" length="9077701" type="application/octet-stream" sparkle:edSignature="QHjJwEWxQAA2MaKn4oruEJR8GlyqkB/DGUtWNruo/o52WWs2JD6u0yihvSOMxHfmDIy9g60LRYjJhuoF/wFwAg=="/>
+            <description><![CDATA[<ul><li><strong>Fix:</strong> Saving preferences no longer fails silently — changes such as rounding rules or rates now reliably take effect without needing to restart Lola.</li></ul>]]></description>
+            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.5/release-notes-0.4.5.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
