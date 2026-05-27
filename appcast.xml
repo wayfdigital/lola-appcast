@@ -3,15 +3,15 @@
     <channel>
         <title>lola</title>
         <item>
-            <title>0.4.5</title>
-            <pubDate>Wed, 20 May 2026 10:11:03 +0000</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <title>0.4.6</title>
+            <pubDate>Wed, 27 May 2026 11:20:28 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.5/Lola-0.4.5.zip" length="9077701" type="application/octet-stream" sparkle:edSignature="QHjJwEWxQAA2MaKn4oruEJR8GlyqkB/DGUtWNruo/o52WWs2JD6u0yihvSOMxHfmDIy9g60LRYjJhuoF/wFwAg=="/>
-            <description><![CDATA[<ul><li><strong>Fix:</strong> Saving preferences no longer fails silently — changes such as rounding rules or rates now reliably take effect without needing to restart Lola.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.5/release-notes-0.4.5.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.6/Lola-0.4.6.zip" length="9084661" type="application/octet-stream" sparkle:edSignature="GdE4unYkvQPPKmfbHrCVJy8SjZTryeMhcY3G9sHX2f8WnZ4Hy3ZDHHviis4njyOMOCWej8FulMogeA7cZGfyBQ=="/>
+            <description><![CDATA[<ul><li><strong>Fix:</strong> The Today view now stays current as the clock advances — the date label and daily total update in real time without needing to reopen the menu.</li><li><strong>Feature:</strong> If a timer is still running past midnight, it now appears in both Today and the previous day's history, so you never lose sight of an active session.</li><li><strong>Fix:</strong> The daily total no longer drops unexpectedly when a timer that was started yesterday is stopped today.</li><li><strong>Fix:</strong> An active cross-midnight timer entry in Today now shows the correct elapsed time and a live "start–now" time range instead of an incorrect end time.</li><li><strong>Fix:</strong> Edit, resume, and delete controls are no longer shown on the active-timer row in Today, preventing accidental edits to a still-running timer.</li></ul>]]></description>
+            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.6/release-notes-0.4.6.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
