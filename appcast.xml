@@ -3,15 +3,15 @@
     <channel>
         <title>lola</title>
         <item>
-            <title>0.4.7</title>
-            <pubDate>Wed, 03 Jun 2026 09:51:43 +0000</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+            <title>0.5.0</title>
+            <pubDate>Wed, 12 Aug 2026 17:57:01 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.4.7/Lola-0.4.7.zip" length="9084268" type="application/octet-stream" sparkle:edSignature="9aQ79JP5hwjsH1cetOoFwSD5/dtwCbeYgwXC7IvPLCQ3we6U90OBotGHW1WSneYcMjR9ehdS4LqbjTlFOW29Dg=="/>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.5.0/Lola-0.5.0.zip" length="9120030" type="application/octet-stream" sparkle:edSignature="F03AX2LeIg9Qv7gB7U4o9/WcLIhiyZjhFhXN1rc4xlScxsSftDUQjgCW4SRaxi84o3B8kAIzs3fILkRkpJgBDA=="/>
             <description><![CDATA[<ul><li>Bug fixes and improvements.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.4.7/release-notes-0.4.7.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.5.0/release-notes-0.5.0.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
