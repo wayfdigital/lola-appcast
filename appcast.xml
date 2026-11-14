@@ -10,8 +10,8 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.5.0/Lola-0.5.0.zip" length="9120030" type="application/octet-stream" sparkle:edSignature="F03AX2LeIg9Qv7gB7U4o9/WcLIhiyZjhFhXN1rc4xlScxsSftDUQjgCW4SRaxi84o3B8kAIzs3fILkRkpJgBDA=="/>
-            <description><![CDATA[<ul><li>Bug fixes and improvements.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.5.0/release-notes-0.5.0.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<ul><li><strong>Feature:</strong> Errors now show in a clear banner you can dismiss. When a day is already submitted or approved, the banner links to the web timesheet.</li><li><strong>Feature:</strong> Days submitted for review are locked and marked with a Submitted badge.</li><li><strong>Feature:</strong> Time entered on the web appears in Today and History and counts toward your totals.</li><li><strong>Feature:</strong> Settings has a Quit Lola button.</li></ul>]]></description>
+            <sparkle:releaseNotesLink>https://lola-updates.wayf.dev/release-notes/0.5.0.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
