@@ -3,15 +3,15 @@
     <channel>
         <title>lola</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Wed, 12 Aug 2026 17:57:01 +0000</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>0.5.1</title>
+            <pubDate>Sat, 14 Nov 2026 12:54:43 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.5.0/Lola-0.5.0.zip" length="9120030" type="application/octet-stream" sparkle:edSignature="F03AX2LeIg9Qv7gB7U4o9/WcLIhiyZjhFhXN1rc4xlScxsSftDUQjgCW4SRaxi84o3B8kAIzs3fILkRkpJgBDA=="/>
-            <description><![CDATA[<ul><li><strong>Feature:</strong> Errors now show in a clear banner you can dismiss. When a day is already submitted or approved, the banner links to the web timesheet.</li><li><strong>Feature:</strong> Days submitted for review are locked and marked with a Submitted badge.</li><li><strong>Feature:</strong> Time entered on the web appears in Today and History and counts toward your totals.</li><li><strong>Feature:</strong> Settings has a Quit Lola button.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://lola-updates.wayf.dev/release-notes/0.5.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.5.1/Lola-0.5.1.zip" length="9125512" type="application/octet-stream" sparkle:edSignature="ZNVHA5ryRgJJUWqwSPXm+wkPAKyYQY377u06SVgft0ENyKr8qXXadsHu+2R6zbHGh7au2SqoNb8wh5q5u7XnBA=="/>
+            <description><![CDATA[<ul><li><strong>Fix:</strong> Relaunching Lola from Finder, Spotlight, or Launchpad while it's already running now opens a Lola window, so you're no longer left with nothing to click when the menu-bar icon is hidden behind the notch.</li><li><strong>Fix:</strong> In-app update notifications now work again after a delivery issue prevented the v0.5.0 update from reaching existing users.</li></ul>]]></description>
+            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.5.1/release-notes-0.5.1.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
