@@ -1,17 +1,17 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>lola</title>
+        <title>Laury Time</title>
         <item>
-            <title>0.5.1</title>
-            <pubDate>Sat, 14 Nov 2026 12:54:43 +0000</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Tue, 17 Nov 2026 19:01:37 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v0.5.1/Lola-0.5.1.zip" length="9125512" type="application/octet-stream" sparkle:edSignature="ZNVHA5ryRgJJUWqwSPXm+wkPAKyYQY377u06SVgft0ENyKr8qXXadsHu+2R6zbHGh7au2SqoNb8wh5q5u7XnBA=="/>
-            <description><![CDATA[<ul><li><strong>Fix:</strong> Relaunching Lola from Finder, Spotlight, or Launchpad while it's already running now opens a Lola window, so you're no longer left with nothing to click when the menu-bar icon is hidden behind the notch.</li><li><strong>Fix:</strong> In-app update notifications now work again after a delivery issue prevented the v0.5.0 update from reaching existing users.</li></ul>]]></description>
-            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v0.5.1/release-notes-0.5.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/wayfdigital/lola-releases/releases/download/v1.0.0/Laury-Time-1.0.0.zip" length="9051119" type="application/octet-stream" sparkle:edSignature="7Gbgj4lmBplGCZX/3pnLeAKz0YtEPPp0Bq52/TOtknJK4GCdrTBDNq5L/Tau7Xx484cpGZ4vjRguzWGaQgiAAw=="/>
+            <description><![CDATA[<ul><li><strong>New name:</strong> Lola is now Laury Time, with a new app icon and menu bar icon.</li><li>After the update the app in your Applications folder is called Laury Time. You stay signed in and your settings are kept.</li><li>If you pinned Lola to the Dock by hand, add Laury Time to the Dock again after the update.</li></ul>]]></description>
+            <sparkle:releaseNotesLink>https://github.com/wayfdigital/lola-releases/releases/download/v1.0.0/release-notes-1.0.0.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
